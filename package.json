@@ -9,7 +9,7 @@
   "version": "0.0.1",
   "repository": {
    "type" :  "git",
-    "url": "https://dhineshs@bitbucket.org/dhineshs/bitbucket-rest.git"
+    "url": "https://bitbucket.org/dhineshs/bitbucket-rest.git"
   },
   "main": "index.js",
   "scripts": {
