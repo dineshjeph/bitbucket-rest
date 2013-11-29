@@ -12,7 +12,7 @@ To install the most recent release from npm, run:
 A simple example of to create a bitbucket client.
 
 ```javascript
-  var bitbucket = require('bitbucket-rest');
+  var bitbucket = require('bitbucket-rest');                                            a
   var client = bitbucket.connectClient({username : 'user', password : 'pass'});
   
   client.getRepoDetails({owner:'owner_name', repo_slug : 'repo_slug'}, function(res){
