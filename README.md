@@ -373,7 +373,7 @@ This returns following object:
 ```javascript
   { 
     status : 204,
-    data : [object]
+    data : undefined
   }
 ```
 
@@ -519,7 +519,7 @@ This returns following object:
 ```javascript
   { 
     status : 204,
-    data : [object]
+    data : undefined
   }
 ```
 
