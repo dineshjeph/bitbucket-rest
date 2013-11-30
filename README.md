@@ -372,7 +372,7 @@ This returns following object:
 
 ```javascript
   { 
-    status : 200,
+    status : 204,
     data : [object]
   }
 ```
@@ -518,7 +518,7 @@ This returns following object:
 
 ```javascript
   { 
-    status : 200,
+    status : 204,
     data : [object]
   }
 ```
