@@ -8,7 +8,7 @@
     },
     "repository": {
         "type" :  "git",
-        "url": "https://bitbucket.org/dineshjeph/bitbucket-rest.git"
+        "url": "https://bitbucket.org/jephthah/bitbucket-rest.git"
     },
     "main": "index.js",
     "dependencies": {
